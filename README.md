@@ -131,4 +131,4 @@ $ vendor/bin/phpunit
 
 ## License
 
-**Compoships** is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+**Compoships53** is licensed under the [MIT License](http://opensource.org/licenses/MIT).
